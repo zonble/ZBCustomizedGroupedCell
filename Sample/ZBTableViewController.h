@@ -1,0 +1,6 @@
+@interface ZBTableViewController : UITableViewController 
+{
+    
+}
+
+@end
